@@ -12,3 +12,6 @@ Takes a small, focused feature or change and produces a concise requirements doc
 
 ### `dotnet-code-review`
 Reviews uncommitted changes in a .NET/C# project for logic errors, anti-patterns, and non-idiomatic code, then writes a structured report to `codereview.md`.
+
+### `tech-doc-writer`
+Acts like a principal engineer embedded with your team — reads your codebase, interviews you about intent and context, and writes finished technical documentation. Supports READMEs, API references, architecture docs, getting started guides, ops runbooks, contributing guides, ADRs, and feature overviews.
